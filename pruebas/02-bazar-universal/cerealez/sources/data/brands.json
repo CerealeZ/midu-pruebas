@@ -1,0 +1,34 @@
+{
+  "data": [
+    { "title": "Apple", "value": "Apple" },
+    { "title": "Samsung", "value": "Samsung" },
+    { "title": "OPPO", "value": "OPPO" },
+    { "title": "Huawei", "value": "Huawei" },
+    { "title": "Microsoft Surface", "value": "Microsoft Surface" },
+    { "title": "Infinix", "value": "Infinix" },
+    { "title": "HP Pavilion", "value": "HP Pavilion" },
+    {
+      "title": "Impression of Acqua Di Gio",
+      "value": "Impression of Acqua Di Gio"
+    },
+    { "title": "Royal_Mirage", "value": "Royal_Mirage" },
+    { "title": "Fog Scent Xpressio", "value": "Fog Scent Xpressio" },
+    { "title": "Al Munakh", "value": "Al Munakh" },
+    { "title": "Lord - Al-Rehab", "value": "Lord - Al-Rehab" },
+    { "title": "L'Oreal Paris", "value": "L'Oreal Paris" },
+    { "title": "Hemani Tea", "value": "Hemani Tea" },
+    { "title": "Dermive", "value": "Dermive" },
+    { "title": "ROREC White Rice", "value": "ROREC White Rice" },
+    { "title": "Fair & Clear", "value": "Fair & Clear" },
+    { "title": "Saaf & Khaas", "value": "Saaf & Khaas" },
+    { "title": "Bake Parlor Big", "value": "Bake Parlor Big" },
+    { "title": "Baking Food Items", "value": "Baking Food Items" },
+    { "title": "Fauji", "value": "Fauji" },
+    { "title": "Dry Rose", "value": "Dry Rose" },
+    { "title": "Boho Decor", "value": "Boho Decor" },
+    { "title": "Flying Wooden", "value": "Flying Wooden" },
+    { "title": "LED Lights", "value": "LED Lights" },
+    { "title": "Luxury Palace", "value": "Luxury Palace" },
+    { "title": "Golden", "value": "Golden" }
+  ]
+}

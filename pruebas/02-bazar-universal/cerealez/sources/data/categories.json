@@ -1,0 +1,10 @@
+{
+  "data": [
+    { "title": "Smartphones", "value": "smartphones" },
+    { "title": "Laptops", "value": "laptops" },
+    { "title": "Fragrances", "value": "fragrances" },
+    { "title": "Skincare", "value": "skincare" },
+    { "title": "Groceries", "value": "groceries" },
+    { "title": "Home Decoration", "value": "home-decoration" }
+  ]
+}
