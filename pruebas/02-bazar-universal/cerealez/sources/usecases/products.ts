@@ -156,5 +156,5 @@ export default ProductsUseCases({
 const checkBetween =
   (min = Number.MIN_SAFE_INTEGER, max = Number.MAX_SAFE_INTEGER) =>
   (value: number) => {
-    return value > min && value < max
+    return value >= min && value <= max
   }
